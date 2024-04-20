@@ -1,0 +1,124 @@
+body{
+    font-family: raleway;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.titulo1{
+    background-color: black;
+    width: 1280px;
+    height: 73px;
+    display: block;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+}
+.titulo1_h1{
+    color: white;
+    text-align: center;
+}
+.img-iguana_header{
+    width: 100%;
+    height: 727px;
+    display: block;
+    object-fit: cover;
+    position: relative;
+    opacity: 1;
+}
+.caja3{
+    display: flex;
+    justify-content: space-around;
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    opacity: 1;
+
+}
+.parrafo{
+    top: 876px;
+    left: 150px;
+    width: 475px;
+    height: 197px;
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.iguana-1{
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    background: transparent url('img/photo-1492963892107-740cd39d9ff3.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.caja4{
+    padding: 10px;
+    width: 1280px;
+    height: 258px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+}
+.titulo2{
+    text-align: center;
+    font: normal normal medium 40px/47px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.caja_iconos{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font: normal normal 300 24px/29px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.caja5{
+    padding: 40px;
+    width: 1280px;
+    height: 208px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 0.96;
+    display: flex;
+    justify-content: center;
+    
+}
+.img_secc5_1{
+    margin: 20px;
+    width: 316px;
+    height: 202px;
+    background: transparent url('img/photo-1523371153586-b3b8e1782b44.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.img_secc5_2{
+    margin: 20px;
+    width: 316px;
+    height: 202px;
+    background: transparent url('img/photo-1511762018950-7ba39019ae85.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.img_secc5_3{
+    margin: 20px;
+    width: 316px;
+    height: 202px;
+    background: transparent url('img/photo-1487252665478-49b61b47f302.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.footer{
+    width: 1280px;
+    height: 50px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+.parrafo1{
+    padding: 13px;
+    text-align: center;
+    font-family: raleway;
+    color: #FFFFFF;
+    opacity: 1;
+}
